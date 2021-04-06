@@ -1,6 +1,6 @@
 {
   "name": "rrweb-player",
-  "version": "0.6.6",
+  "version": "0.7.1",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-node-resolve": "^7.0.0",
@@ -23,8 +23,8 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "rrweb": "^0.9.10",
-    "@tsconfig/svelte": "^1.0.0"
+    "@tsconfig/svelte": "^1.0.0",
+    "rrweb": "^0.9.14"
   },
   "scripts": {
     "build": "rollup -c",
